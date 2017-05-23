@@ -1,3 +1,6 @@
 # ca-pop-density
 
-<img src="https://raw.githubusercontent.com/orcutt989/d3js/7a175b01f6a10250c8d202d4f52210cfa49fe6f6/ca-pop-density/ca-albers.svg">
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/orcutt989/d3js/9fe8c97dbdb18a6ca882e771a89222a1a6eacd25/ca-pop-density/ca-albers-color.svg">
+  Your browser does not support SVG
+</object>
+
