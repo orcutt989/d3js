@@ -6,5 +6,5 @@ Project to California Albers.
 
 ![ca-albers](https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca-albers.png)
 
-Join census pop data to geometry and apply virdris color scheme with sequential scale.
+Join census pop data to geometry and apply viridis color scheme with sequential scale.
 ![ca-albers-color](https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca-albers-color.png)
