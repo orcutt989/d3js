@@ -26,6 +26,6 @@ Looks good, let's add the census tracts.
 
 ![](https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca-tracts-threshold.png)
 
-Bingo. Looks good. Now we just need a scale
+Bingo. Looks good. Now we just need a legend.
 
 ![ca](https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca.png)
