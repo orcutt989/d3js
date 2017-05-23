@@ -1,7 +1,6 @@
 # ca-pop-density
 Original, unprojected cb_2014_06_tract_500k.shp from U.S. Census
-
-![ca-original](https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca-original.png | width=400)
+<img src="https://raw.githubusercontent.com/orcutt989/d3js/master/ca-pop-density/png/ca-original.png" width="480" height="480">
 
 Project to California Albers
 
